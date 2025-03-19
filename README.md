@@ -18,7 +18,7 @@ JavaScript – Adding interactivity, form handling, and dynamic content.
 🔹 Implement theme switching (light/dark mode) for a better UX.
 🔹 Optimize for mobile devices with better responsiveness.
 
-🔗 GitHub Repository: [Add your GitHub link here]
+🔗 GitHub Repository: [https://github.com/Ishraq-Fraih/Personal-Portfolio-Website]
 
 📌 Why This Project?
 This project is a technical demonstration of front-end development skills, showcasing proficiency in HTML, CSS, and JavaScript without relying on real-world data.
